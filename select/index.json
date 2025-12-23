@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "snooze（feat. SHIKI）",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-23T08:58:14.802086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snooze (feat. Shiki)",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/01_Snooze_(feat._Shiki)_wotaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "snooze (feat. SHIKI)",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_snooze_(feat._SHIKI)_wotaku.txt"
+    }
+  ]
+}
