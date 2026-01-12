@@ -1,24 +1,144 @@
 {
   "version": 1,
-  "base_track": "snooze（feat. SHIKI）",
+  "base_track": "snooze（feat. 初音ミク）",
   "base_artist": "wotaku",
-  "createdAt": "2025-12-23T08:58:14.802086Z",
+  "createdAt": "2026-01-12T07:26:32.901122Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D feat. Ryuichi Sakamoto & WOOSUNG",
+      "has_synced": true,
+      "path": "select/01_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D_feat._Ryuichi_Sakamoto_&_WOOSUNG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/02_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
       "title": "Snooze (feat. Shiki)",
       "artist": "wotaku",
       "has_synced": true,
-      "path": "select/01_Snooze_(feat._Shiki)_wotaku.lrc"
+      "path": "select/03_Snooze_(feat._Shiki)_wotaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "snooze (feat. 初音ミク)",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/04_snooze_(feat._初音ミク)_wotaku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/05_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D; Ryuichi Sakamoto; Woosung",
+      "has_synced": true,
+      "path": "select/06_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D;_Ryuichi_Sakamoto;_Woosung.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/07_Snooze_(feat._Ryuichi_Sakamoto_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto & 김우성 of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/08_Snooze_(feat._Ryuichi_Sakamoto_&_김우성_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snooze (feat. Cousin Stizz)",
+      "artist": "Johnny Yukon",
+      "has_synced": true,
+      "path": "select/09_Snooze_(feat._Cousin_Stizz)_Johnny_Yukon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/10_Snooze_(feat._Ryuichi_Sakamoto_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snooze (feat. Cousin Stizz)",
+      "artist": "Johnny Yukon",
+      "has_synced": false,
+      "path": "select/11_Snooze_(feat._Cousin_Stizz)_Johnny_Yukon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snooze (feat. WB Splush)",
+      "artist": "RonBandup",
+      "has_synced": false,
+      "path": "select/12_Snooze_(feat._WB_Splush)_RonBandup.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "snooze (feat. ryuichi sakamoto, 깐우성 of the rose)",
+      "artist": "agust d (bts suga)",
+      "has_synced": true,
+      "path": "select/13_snooze_(feat._ryuichi_sakamoto,_깐우성_of_the_rose)_agust_d_(bts_suga).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto & 김우성 of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/14_Snooze_(feat._Ryuichi_Sakamoto_&_김우성_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Snooze Feat Ryuichi Sakamoto And Woosung Of The Rose",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/15_Snooze_Feat_Ryuichi_Sakamoto_And_Woosung_Of_The_Rose_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Snooze (feat. Justin Bieber) [Acoustic]",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/16_Snooze_(feat._Justin_Bieber)_[Acoustic]_SZA.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "snooze (feat. SHIKI)",
+      "title": "snooze (feat. 初音ミク)",
       "artist": "wotaku",
       "has_synced": false,
-      "path": "select/pl_01_snooze_(feat._SHIKI)_wotaku.txt"
+      "path": "select/pl_01_snooze_(feat._初音ミク)_wotaku.txt"
     }
   ]
 }
