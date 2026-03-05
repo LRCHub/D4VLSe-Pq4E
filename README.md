@@ -1,4 +1,4 @@
-# wotaku – snooze（feat. SHIKI）
+# wotaku – snooze（feat. 初音ミク）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
